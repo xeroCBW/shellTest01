@@ -1,0 +1,37 @@
+Last login: Thu Sep 14 17:55:10 on ttys001
+chenbowendeMacBook-Pro:~ chenbowen$ sh /Users/chenbowen/Desktop/test01.sh 
+helloWorld
+this is fun1
+-------------------------
+This is func2
+a is : aaa
+b is : bbb
+-------------------------
+我是全局变量
+我是本地变量
+func3 调用完成...,看结果并不会打印出localValue
+我是全局变量
+
+-------------------------
+str1
+str2
+str3
+-------------------------
+stringLengthTest length: 11
+-------------------------
+hello+world
+helloworld
+-------------------------
+3
+-------------------------
+格式一
+my_arr: 1 2 3
+my_arr length: 3
+格式二
+my_arr: 1 2 3
+my_arr length: 3
+获取数组某个元素
+第1个元素: 2
+数组赋值
+my_arr: a b 3 c
+chenbowendeMacBook-Pro:~ chenbowen$ 
